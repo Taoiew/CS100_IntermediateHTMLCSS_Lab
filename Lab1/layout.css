@@ -5,7 +5,60 @@
     box-sizing:border-box ;
 }
 
+header
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    width: 100%;
+}
+
 body
 {
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+}
+
+nav
+{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+article
+{
+    float: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+div
+{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+footer
+{
+    float: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+    width: 100%;
+    border: 1px solid gray;
 }
